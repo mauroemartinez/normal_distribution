@@ -2,10 +2,10 @@
 Este proyecto utiliza Python para trazar una distribución normal con una media y desviación estándar dadas. Tanto el código como este README están escritos en español. El código toma la media y la desviación estándar como entrada, genera un espacio lineal de números, calcula la función de densidad de probabilidad para cada número y luego traza la distribución normal. También traza líneas verticales en la media y en dos desviaciones estándar a cada lado de la media.
 
 ## Requisitos
--- Python 3
--- numpy
--- matplotlib
--- scipy
+- **Python 3**
+- **numpy**
+- **matplotlib**
+- **scipy**
 
 ## Uso
 Para usar este proyecto, simplemente ejecuta el script de Python e introduce la media y la desviación estándar cuando se te solicite. El script generará un gráfico de la distribución normal con la media y la desviación estándar especificadas.
